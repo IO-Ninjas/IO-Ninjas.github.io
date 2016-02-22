@@ -9,3 +9,4 @@ IO-Ninjas Organization Page
 ### Github standards
 - [Git/GitHub branching standards & conventions](https://gist.github.com/digitaljhelms/4287848)
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Versioning](http://semver.org/)
