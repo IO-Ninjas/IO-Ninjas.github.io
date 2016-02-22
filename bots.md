@@ -1,7 +1,12 @@
 # Bots
 
 ## Projects
+### Bots
 - https://github.com/pandorabots/rosie
+- http://www.pandorabots.com/
+
+### AI
+- http://www.h2o.ai/
 
 ## Articels
 - [Human + A.I. = Your Digital Future](http://www.nirandfar.com/2015/07/the-message-is-the-medium-3-reasons-apps-as-assistants-work.html)
